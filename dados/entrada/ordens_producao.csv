@@ -1,0 +1,616 @@
+﻿numero_op;codigo_produto;descricao_produto;setor;maquina;qtd_planejada;qtd_produzida;qtd_refugo;data_emissao;data_prevista;data_conclusao;status
+OP240477;PRD-1008;Prateleira industrial 900mm;Corte;Serra-01;200;191;1;15/09/2026;20/09/2026;20/09/2026;Encerrada
+OP240484;PRD-1001;Suporte metálico 40x40;Montagem;Linha-01;50;48;0;17/07/2026;22/07/2026;21/07/2026;Encerrada
+OP240172;PRD-1001;Suporte metálico 40x40;Montagem;Linha-01;500;518;12;11/07/2026;14/07/2026;14/07/2026;Encerrada
+OP240374;PRD-1006;Chassi soldado modelo A;Montagem;Linha-01;500;513;7;05/09/2026;16/09/2026;20/09/2026;Encerrada
+OP240356;PRD-1008;Prateleira industrial 900mm;Corte;CNC-01;100;101;1;05/08/2026;11/08/2026;11/08/2026;Encerrada
+OP240008;PRD-1004;Tampa frontal pintada;Solda;Solda-01;200;210;8;11/09/2026;25/09/2026;29/09/2026;Encerrada
+OP240132;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-02;500;514;11;13/09/2026;23/09/2026;21/09/2026;Encerrada
+OP240190;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-02;400;409;4;31/08/2026;08/09/2026;06/09/2026;Encerrada
+OP240452;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;300;326;21;21/08/2026;28/08/2026;31/08/2026;Encerrada
+OP240242;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;250;259;7;08/08/2026;11/08/2026;09/08/2026;Encerrada
+OP240510;PRD-1006;Chassi soldado modelo A;solda ;Solda-03;150;140;4;15/08/2026;28/08/2026;06/09/2026;Encerrada
+OP240182;PRD-1001;Suporte metálico 40x40;Montagem;Linha-01;200;205;3;05/07/2026;10/07/2026;08/07/2026;Encerrada
+OP240309;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;0;414;11;15/08/2026;25/08/2026;24/08/2026;Encerrada
+OP240128;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;250;253;1;07/08/2026;11/08/2026;17/08/2026;Encerrada
+OP240347;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;150;153;1;16/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240287;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;50;52;1;18/07/2026;01/08/2026;31/07/2026;Encerrada
+OP240248;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;50;26;1;21/09/2026;03/10/2026;;Em andamento
+OP240036;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-02;50;52;1;30/07/2026;05/08/2026;04/08/2026;Encerrada
+OP240075;PRD-1007;Chassi soldado modelo B;montagem;Linha-01;120;111;3;15/07/2026;26/07/2026;25/07/2026;Encerrada
+OP240572;PRD-1001;Suporte metálico 40x40;montagem;Linha-02;500;515;12;19/09/2026;29/09/2026;29/09/2026;Encerrada
+OP240237;PRD-1005;Quadro de comando 600mm;Corte;CNC-01;100;99;1;20/07/2026;29/07/2026;28/07/2026;Encerrada
+OP240044;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-02;50;51;1;26/07/2026;31/07/2026;08/08/2026;Encerrada
+OP240161;PRD-1001;Suporte metálico 40x40;Montagem;Linha-02;120;121;1;17/07/2026;21/07/2026;20/07/2026;Encerrada
+OP240155;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;300;301;1;18/07/2026;22/07/2026;26/07/2026;Encerrada
+OP240015;PRD-1003;Base estrutural reforçada;Montagem;Linha-01;400;409;5;23/09/2026;03/10/2026;29/09/2026;Encerrada
+OP240575;PRD-1003;Base estrutural reforçada;dobra;Dobradeira-02;200;208;5;06/09/2026;09/09/2026;09/09/2026;Encerrada
+OP240035;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-01;80;86;5;21/07/2026;05/08/2026;05/08/2026;Encerrada
+OP240137;PRD-1005;Quadro de comando 600mm;Solda;Solda-02;200;216;16;19/08/2026;28/08/2026;28/08/2026;Encerrada
+OP240003;PRD-1002;Painel lateral 1200mm;SOLDA;Solda-01;200;191;5;18/08/2026;22/08/2026;20/08/2026;Encerrada
+OP240306;PRD-1001;Suporte metálico 40x40;Pintura ;Cabine-02;250;268;16;18/08/2026;31/08/2026;04/09/2026;Encerrada
+OP240000;PRD-1005;Quadro de comando 600mm;Corte;CNC-01;100;102;1;01/08/2026;07/08/2026;05/08/2026;Encerrada
+OP240547;PRD-1006;Chassi soldado modelo A;Montagem;Linha-01;80;79;2;29/08/2026;01/09/2026;30/08/2026;Encerrada
+OP240531;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;80;81;0;12/07/2026;15/07/2026;15/07/2026;Encerrada
+OP240077;PRD-1002;Painel lateral 1200mm;pintura;Cabine-02;250;250;4;15/09/2026;18/09/2026;16/09/2026;Encerrada
+OP240040;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;200;208;7;09/07/2026;22/07/2026;20/07/2026;Encerrada
+OP240312;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;500;524;24;23/07/2026;29/07/2026;27/07/2026;Encerrada
+OP240468;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;250;262;9;21/09/2026;30/09/2026;29/09/2026;Encerrada
+OP240207;PRD-1005;Quadro de comando 600mm;Corte;CNC-02;120;122;1;01/07/2026;15/07/2026;15/07/2026;Encerrada
+OP240496;PRD-1010;Caixa de passagem 300mm;Solda;Solda-01;50;52;2;18/08/2026;22/08/2026;21/08/2026;Encerrada
+OP240283;PRD-1002;Painel lateral 1200mm;Corte;Serra-01;120;123;2;02/07/2026;09/07/2026;10/07/2026;Encerrada
+OP240166;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-02;120;117;4;29/07/2026;02/08/2026;02/08/2026;Encerrada
+OP240138;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;500;510;1;06/08/2026;13/08/2026;12/08/2026;Encerrada
+OP240197;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;400;300;26;21/09/2026;02/10/2026;;Em andamento
+OP240354;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-01;250;253;1;06/09/2026;13/09/2026;16/09/2026;Encerrada
+OP240401;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;200;203;1;04/07/2026;14/07/2026;16/07/2026;Encerrada
+OP240344;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;250;253;0;04/08/2026;17/08/2026;15/08/2026;Encerrada
+OP240175;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-02;200;202;2;10/09/2026;14/09/2026;14/09/2026;Encerrada
+OP240559;PRD-1009;Guarda-corpo modular;pintura;Cabine-02;100;97;0;13/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240071;PRD-1002;Painel lateral 1200mm;Montagem;Linha-02;400;413;7;01/08/2026;05/08/2026;03/08/2026;Encerrada
+OP240297;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-02;400;412;7;06/07/2026;12/07/2026;11/07/2026;Encerrada
+OP240414;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;120;124;3;16/08/2026;25/08/2026;23/08/2026;Encerrada
+OP240291;PRD-1006;Chassi soldado modelo A; Corte;CNC-02;100;102;1;19/08/2026;24/08/2026;24/08/2026;Encerrada
+OP240434;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;80;82;2;18/07/2026;31/07/2026;30/07/2026;Encerrada
+OP240213;PRD-1008;Prateleira industrial 900mm;Corte;CNC-02;120;121;0;30/07/2026;10/08/2026;10/08/2026;Encerrada
+OP240050;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-01;200;202;0;23/08/2026;01/09/2026;31/08/2026;Encerrada
+OP240557;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;120;123;2;09/07/2026;17/07/2026;15/07/2026;Encerrada
+OP240228;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-01;120;123;1;06/09/2026;11/09/2026;09/09/2026;Encerrada
+OP240402;PRD-1005;Quadro de comando 600mm;Montagem;Linha-01;300;304;3;22/08/2026;31/08/2026;30/08/2026;Encerrada
+OP240503;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-01;120;126;6;06/07/2026;12/07/2026;12/07/2026;Encerrada
+OP240176;PRD-1010;Caixa de passagem 300mm;Solda;Solda-02;100;107;7;23/08/2026;29/08/2026;27/08/2026;Encerrada
+OP240380;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-01;50;52;2;23/09/2026;29/09/2026;28/09/2026;Encerrada
+OP240064;PRD-1009;Guarda-corpo modular;Montagem;Linha-02;120;124;2;02/07/2026;13/07/2026;20/07/2026;Encerrada
+OP240272;PRD-1003;Base estrutural reforçada;Corte;CNC-01;50;50;0;26/08/2026;05/09/2026;04/09/2026;Encerrada
+OP240523;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;400;419;13;17/09/2026;20/09/2026;19/09/2026;Encerrada
+OP240081;PRD-1009;Guarda-corpo modular;Montagem;Linha-01;50;51;1;29/08/2026;07/09/2026;06/09/2026;Encerrada
+OP240364;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;150;84;4;23/09/2026;04/10/2026;;Em andamento
+OP240032;PRD-1002;Painel lateral 1200mm;CORTE;CNC-01;50;51;1;20/07/2026;31/07/2026;29/07/2026;Encerrada
+OP240090;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;100;103;2;22/08/2026;04/09/2026;09/09/2026;Encerrada
+OP240491;PRD-1010;Caixa de passagem 300mm;montagem;Linha-01;250;254;2;08/09/2026;14/09/2026;12/09/2026;Encerrada
+OP240458;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;500;363;1;19/09/2026;01/10/2026;;Em andamento
+OP240256;PRD-1007;Chassi soldado modelo B;Solda;Solda-03;500;550;42;17/09/2026;26/09/2026;29/09/2026;Encerrada
+OP240073;PRD-1005;Quadro de comando 600mm;DOBRA;Dobradeira-01;100;101;0;23/09/2026;27/09/2026;27/09/2026;Encerrada
+OP240238;PRD-1005;Quadro de comando 600mm;pintura;Cabine-02;80;83;3;14/07/2026;19/07/2026;27/07/2026;Encerrada
+OP240194;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;300;311;9;21/07/2026;30/07/2026;30/07/2026;Encerrada
+OP240476;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;200;201;1;20/09/2026;29/09/2026;27/09/2026;Encerrada
+OP240235;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-02;300;85;6;20/09/2026;27/09/2026;;Em andamento
+OP240070;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;80;82;2;31/08/2026;04/09/2026;04/09/2026;Encerrada
+OP240187;PRD-1007;Chassi soldado modelo B;pintura;Cabine-01;500;530;25;03/09/2026;18/09/2026;16/09/2026;Encerrada
+OP240501;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;250;253;1;10/07/2026;17/07/2026;15/07/2026;Encerrada
+OP240141;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-01;150;155;3;20/07/2026;24/07/2026;24/07/2026;Encerrada
+OP240532;PRD-1008;Prateleira industrial 900mm;montagem;Linha-01;50;51;0;13/09/2026;21/09/2026;26/09/2026;Encerrada
+OP240233;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-01;120;127;6;21/07/2026;02/08/2026;01/08/2026;Encerrada
+OP240183;PRD-1006;Chassi soldado modelo A;Soldagem;Solda-03;500;535;30;21/07/2026;30/07/2026;29/07/2026;Encerrada
+OP240389;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;150;150;0;19/07/2026;22/07/2026;20/07/2026;Encerrada
+OP240016;PRD-1007;Chassi soldado modelo B;DOBRA;Dobradeira-02;200;83;0;24/09/2026;07/10/2026;;Em andamento
+OP240098;PRD-1010;Caixa de passagem 300mm;Solda;Solda-01;300;328;23;07/07/2026;19/07/2026;18/07/2026;Encerrada
+OP240276;PRD-1002;Painel lateral 1200mm;Corte;Serra-01;200;205;2;14/07/2026;22/07/2026;22/07/2026;Encerrada
+OP240335;PRD-1010;Caixa de passagem 300mm;corte ;CNC-01;150;155;3;13/07/2026;28/07/2026;27/07/2026;Encerrada
+OP240521;PRD-1002;Painel lateral 1200mm;Corte;Serra-01;50;52;1;27/08/2026;06/09/2026;06/09/2026;Encerrada
+OP240229;PRD-1007;Chassi soldado modelo B;CORTE;CNC-02;120;121;1;28/08/2026;09/09/2026;09/09/2026;Encerrada
+OP240338;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;150;164;12;30/07/2026;04/08/2026;03/08/2026;Encerrada
+OP240429;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;400;427;22;06/07/2026;20/07/2026;19/07/2026;Encerrada
+OP240479;PRD-1004;Tampa frontal pintada;Solda;Solda-02;250;245;6;03/07/2026;17/07/2026;17/07/2026;Encerrada
+OP240217;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-02;250;256;4;10/09/2026;19/09/2026;19/09/2026;Encerrada
+OP240360;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;300;306;1;18/07/2026;26/07/2026;26/07/2026;Encerrada
+OP240580;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;500;543;37;02/08/2026;15/08/2026;13/08/2026;Encerrada
+OP240275;PRD-1001;Suporte metálico 40x40;Montagem;Linha-02;200;205;4;02/07/2026;16/07/2026;15/07/2026;Encerrada
+OP240192;PRD-1004;Tampa frontal pintada;Pintura;Cabine-01;400;405;3;07/09/2026;14/09/2026;14/09/2026;Encerrada
+OP240554;PRD-1003;Base estrutural reforçada;Solda;Solda-02;200;5;0;24/09/2026;02/10/2026;;Em andamento
+OP240302;PRD-1004;Tampa frontal pintada;dobra;Dobradeira-01;400;404;4;15/08/2026;24/08/2026;29/08/2026;Encerrada
+OP240348;PRD-1005;Quadro de comando 600mm;Soldagem;Solda-02;400;437;32;25/07/2026;30/07/2026;30/07/2026;Encerrada
+OP240412;PRD-1010;Caixa de passagem 300mm;CORTE;CNC-01;100;101;1;11/07/2026;18/07/2026;18/07/2026;Encerrada
+OP240247;PRD-1009;Guarda-corpo modular;Pintura;Cabine-02;200;208;8;05/07/2026;20/07/2026;18/07/2026;Encerrada
+OP240425;PRD-1004;Tampa frontal pintada;Solda;Solda-01;300;308;7;27/08/2026;08/09/2026;08/09/2026;Encerrada
+OP240268;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;80;82;1;18/08/2026;28/08/2026;28/08/2026;Encerrada
+OP240454;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-02;400;406;6;08/08/2026;15/08/2026;15/08/2026;Encerrada
+OP240200;PRD-1006;Chassi soldado modelo A;DOBRA;Dobradeira-02;150;156;5;01/08/2026;04/08/2026;03/08/2026;Encerrada
+OP240250;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;400;412;4;14/09/2026;28/09/2026;27/09/2026;Encerrada
+OP240118;PRD-1010;Caixa de passagem 300mm;Dobra;Dobradeira-01;200;206;3;10/09/2026;21/09/2026;20/09/2026;Encerrada
+OP240171;PRD-1003;Base estrutural reforçada; Corte;Serra-01;100;103;1;14/09/2026;26/09/2026;24/09/2026;Encerrada
+OP240254;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-02;300;302;0;17/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240055;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;300;302;1;02/08/2026;06/08/2026;15/08/2026;Encerrada
+OP240388;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;80;73;0;02/07/2026;13/07/2026;16/07/2026;Encerrada
+OP240078;PRD-1005;Quadro de comando 600mm;Montagem;Linha-01;100;-103;1;12/09/2026;15/09/2026;13/09/2026;Encerrada
+OP240047;PRD-1008;Prateleira industrial 900mm;PINTURA;Cabine-02;400;290;9;17/09/2026;01/10/2026;;Em andamento
+OP240583;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-01;100;104;2;12/07/2026;24/07/2026;22/07/2026;Encerrada
+OP240097;PRD-1004;Tampa frontal pintada;Pintura;Cabine-01;200;207;4;18/08/2026;30/08/2026;28/08/2026;Encerrada
+OP240595;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;50;50;0;19/07/2026;29/07/2026;27/07/2026;Encerrada
+OP240543;PRD-1006;Chassi soldado modelo A;Solda;Solda-03;250;261;9;05/07/2026;12/07/2026;16/07/2026;Encerrada
+OP240589;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;120;123;1;09/07/2026;20/07/2026;28/07/2026;Encerrada
+OP240336;PRD-1001;Suporte metálico 40x40;Montagem;Linha-02;250;257;5;23/07/2026;30/07/2026;28/07/2026;Encerrada
+OP240569;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;150;156;5;06/09/2026;21/09/2026;21/09/2026;Encerrada
+OP240034;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;100;103;1;21/07/2026;05/08/2026;05/08/2026;Encerrada
+OP240340;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;100;94;4;03/09/2026;12/09/2026;10/09/2026;Encerrada
+OP240049;PRD-1002;Painel lateral 1200mm;SOLDA;Solda-02;150;152;1;06/08/2026;12/08/2026;10/08/2026;Encerrada
+OP240225;PRD-1001;Suporte metálico 40x40;Corte;Serra-01;50;50;0;10/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240525;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-02;100;101;0;02/08/2026;10/08/2026;10/08/2026;Encerrada
+OP240289;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;300;303;2;19/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240437;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-02;100;102;0;08/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240457;PRD-1006;Chassi soldado modelo A;Solda;Solda-02;300;324;18;04/09/2026;14/09/2026;13/09/2026;Encerrada
+OP240299;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;120;121;1;27/08/2026;03/09/2026;07/09/2026;Encerrada
+OP240461;PRD-1003;Base estrutural reforçada;Corte;CNC-01;80;75;1;20/08/2026;24/08/2026;01/09/2026;Encerrada
+OP240296;PRD-1001;Suporte metálico 40x40; Corte;CNC-02;150;154;1;23/09/2026;02/10/2026;29/09/2026;Encerrada
+OP240079;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-02;250;254;2;30/08/2026;07/09/2026;05/09/2026;Encerrada
+OP240411;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;0;206;4;16/08/2026;21/08/2026;20/08/2026;Encerrada
+OP240278;PRD-1004;Tampa frontal pintada;Pintura;Cabine-02;100;106;5;12/07/2026;16/07/2026;14/07/2026;Encerrada
+OP240382;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-02;500;514;9;23/08/2026;26/08/2026;03/09/2026;Encerrada
+OP240397;PRD-1010;Caixa de passagem 300mm;Solda;Solda-01;400;404;0;06/09/2026;16/09/2026;14/09/2026;Encerrada
+OP240177;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-02;50;51;1;09/08/2026;19/08/2026;26/08/2026;Encerrada
+OP240157;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;250;261;8;17/08/2026;26/08/2026;25/08/2026;Encerrada
+OP240103;PRD-1002;Painel lateral 1200mm;Montagem;Linha-02;150;153;2;20/08/2026;23/08/2026;22/08/2026;Encerrada
+OP240099;PRD-1010;Caixa de passagem 300mm;DOBRA;Dobradeira-01;100;104;3;02/08/2026;15/08/2026;13/08/2026;Encerrada
+OP240342;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-01;300;323;20;31/07/2026;08/08/2026;08/08/2026;Encerrada
+OP240053;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;50;24;1;18/09/2026;29/09/2026;;Em andamento
+OP240507;PRD-1007;Chassi soldado modelo B;Corte;CNC-01;200;3;0;23/09/2026;30/09/2026;;Em andamento
+OP240266;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;150;156;6;07/08/2026;19/08/2026;17/08/2026;Encerrada
+OP240150;PRD-1002;Painel lateral 1200mm;Montagem ;Linha-02;150;153;2;06/08/2026;12/08/2026;12/08/2026;Encerrada
+OP240592;PRD-1008;Prateleira industrial 900mm;Corte;Serra-01;50;51;1;25/07/2026;30/07/2026;28/07/2026;Encerrada
+OP240068;PRD-1004;Tampa frontal pintada;solda ;Solda-01;200;214;14;07/08/2026;13/08/2026;14/08/2026;Encerrada
+OP240265;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;120;123;2;17/09/2026;22/09/2026;22/09/2026;Encerrada
+OP240407;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-02;100;103;1;19/07/2026;24/07/2026;23/07/2026;Encerrada
+OP240386;PRD-1009;Guarda-corpo modular;Solda;Solda-03;400;413;8;10/08/2026;24/08/2026;24/08/2026;Encerrada
+OP240538;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;150;142;5;09/07/2026;16/07/2026;15/07/2026;Encerrada
+OP240451;PRD-1009;Guarda-corpo modular;Solda;Solda-01;150;156;5;03/08/2026;09/08/2026;07/08/2026;Encerrada
+OP240018;PRD-1006;Chassi soldado modelo A;Corte;CNC-01;120;123;1;10/07/2026;21/07/2026;20/07/2026;Encerrada
+OP240552;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-02;0;403;16;12/08/2026;18/08/2026;26/08/2026;Encerrada
+OP240178;PRD-1001;Suporte metálico 40x40;Solda;Solda-01;500;534;34;06/08/2026;16/08/2026;14/08/2026;Encerrada
+OP240186;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;500;507;3;01/08/2026;04/08/2026;04/08/2026;Encerrada
+OP240012;PRD-1003;Base estrutural reforçada;Solda;Solda-02;150;150;8;28/08/2026;31/08/2026;31/08/2026;Encerrada
+OP240427;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;400;417;10;26/07/2026;06/08/2026;06/08/2026;Encerrada
+OP240431;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;80;83;2;12/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240145;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;500;506;2;26/07/2026;10/08/2026;15/08/2026;Encerrada
+OP240083;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;400;420;16;09/09/2026;12/09/2026;12/09/2026;Encerrada
+OP240522;PRD-1009;Guarda-corpo modular;Montagem;Linha-02;120;124;3;19/09/2026;22/09/2026;21/09/2026;Encerrada
+OP240159;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;250;253;1;16/09/2026;30/09/2026;29/09/2026;Encerrada
+OP240368;PRD-1002;Painel lateral 1200mm;Corte;Serra-01;120;117;1;13/07/2026;20/07/2026;19/07/2026;Encerrada
+OP240334;PRD-1010;Caixa de passagem 300mm;Corte;Serra-01;250;255;1;14/09/2026;25/09/2026;25/09/2026;Encerrada
+OP240199;PRD-1004;Tampa frontal pintada;SOLDA;Solda-03;250;258;8;23/07/2026;04/08/2026;02/08/2026;Encerrada
+OP240466;PRD-1009;Guarda-corpo modular;Corte;CNC-01;150;154;2;18/07/2026;26/07/2026;26/07/2026;Encerrada
+OP240428;PRD-1009;Guarda-corpo modular;Montagem ;Linha-01;80;82;2;03/09/2026;18/09/2026;21/09/2026;Encerrada
+OP240570;PRD-1009;Guarda-corpo modular;Corte;Serra-01;500;470;5;13/09/2026;20/09/2026;26/09/2026;Encerrada
+OP240584;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;80;83;2;29/08/2026;11/09/2026;10/09/2026;Encerrada
+OP240509;PRD-1009;Guarda-corpo modular;Montagem;Linha-02;120;121;1;03/07/2026;06/07/2026;05/07/2026;Encerrada
+OP240245;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-01;150;155;4;27/07/2026;06/08/2026;06/08/2026;Encerrada
+OP240261;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-01;120;124;2;11/09/2026;14/09/2026;13/09/2026;Encerrada
+OP240561;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-01;250;254;2;07/09/2026;14/09/2026;13/09/2026;Encerrada
+OP240345;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;150;154;3;02/08/2026;14/08/2026;12/08/2026;Encerrada
+OP240039;PRD-1005;Quadro de comando 600mm;montagem;Linha-01;250;259;5;06/07/2026;20/07/2026;29/07/2026;Encerrada
+OP240435;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;50;45;0;09/09/2026;21/09/2026;19/09/2026;Encerrada
+OP240500;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;120;127;5;31/08/2026;11/09/2026;09/09/2026;Encerrada
+OP240304;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;80;82;3;21/08/2026;29/08/2026;28/08/2026;Encerrada
+OP240095;PRD-1005;Quadro de comando 600mm;Solda;Solda-02;300;163;3;24/09/2026;27/09/2026;;Em andamento
+OP240100;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;200;205;1;12/07/2026;19/07/2026;19/07/2026;Encerrada
+OP240325;PRD-1005;Quadro de comando 600mm;montagem;Linha-02;80;83;2;08/08/2026;14/08/2026;23/08/2026;Encerrada
+OP240488;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-02;120;125;3;25/07/2026;05/08/2026;05/08/2026;Encerrada
+OP240174;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-01;200;214;10;16/09/2026;21/09/2026;20/09/2026;Encerrada
+OP240394;PRD-1006;Chassi soldado modelo A;Solda;Solda-01;100;107;6;29/08/2026;12/09/2026;18/09/2026;Encerrada
+OP240006;PRD-1002;Painel lateral 1200mm;Solda;Solda-03;100;20;1;16/09/2026;29/09/2026;;Em andamento
+OP240398;PRD-1001;Suporte metálico 40x40;Montagem;Linha-01;80;77;2;11/08/2026;20/08/2026;18/08/2026;Encerrada
+OP240024;PRD-1006;Chassi soldado modelo A;Montagem;Linha-01;500;503;2;08/07/2026;11/07/2026;09/07/2026;Encerrada
+OP240277;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;500;514;7;11/09/2026;14/09/2026;13/09/2026;Encerrada
+OP240548;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-02;150;154;4;25/07/2026;01/08/2026;31/07/2026;Encerrada
+OP240063;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;200;203;2;04/07/2026;14/07/2026;14/07/2026;Encerrada
+OP240019;PRD-1004;Tampa frontal pintada;montagem;Linha-02;250;257;5;30/08/2026;31/02/2024;14/09/2026;Encerrada
+OP240106;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;400;414;9;28/08/2026;05/09/2026;03/09/2026;Encerrada
+OP240460;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;250;254;3;05/09/2026;15/09/2026;16/09/2026;Encerrada
+OP240146;PRD-1009;Guarda-corpo modular;corte ;Serra-01;80;82;1;16/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240456;PRD-1002;Painel lateral 1200mm;Corte;CNC-02;500;516;6;14/08/2026;27/08/2026;25/08/2026;Encerrada
+OP240574;PRD-1003;Base estrutural reforçada;corte ;Serra-01;100;30;0;14/09/2026;28/09/2026;;Em andamento
+OP240524;PRD-1010;Caixa de passagem 300mm;Corte;CNC-01;250;254;0;08/09/2026;13/09/2026;12/09/2026;Encerrada
+OP240286;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;80;81;0;12/07/2026;21/07/2026;19/07/2026;Encerrada
+OP240054;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;100;102;1;18/07/2026;28/07/2026;04/08/2026;Encerrada
+OP240149;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-02;80;84;3;17/09/2026;20/09/2026;24/09/2026;Encerrada
+OP240169;PRD-1003;Base estrutural reforçada;Montagem;Linha-01;50;50;0;25/08/2026;05/09/2026;03/09/2026;Encerrada
+OP240526;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;100;101;0;04/09/2026;16/09/2026;15/09/2026;Encerrada
+OP240410;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;500;551;48;20/07/2026;01/08/2026;31/07/2026;Encerrada
+OP240472;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-02;80;80;0;05/07/2026;13/07/2026;13/07/2026;Encerrada
+OP240191;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;0;51;0;19/07/2026;26/07/2026;24/07/2026;Encerrada
+OP240311;PRD-1003;Base estrutural reforçada;montagem;Linha-01;120;121;0;13/07/2026;19/07/2026;17/07/2026;Encerrada
+OP240048;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-02;120;126;4;03/08/2026;18/08/2026;17/08/2026;Encerrada
+OP240270;PRD-1009;Guarda-corpo modular;Solda;Solda-01;250;259;7;20/08/2026;26/08/2026;25/08/2026;Encerrada
+OP240052;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-01;250;258;6;29/07/2026;05/08/2026;04/08/2026;Encerrada
+OP240515;PRD-1007;Chassi soldado modelo B;Corte;CNC-02;300;311;6;22/08/2026;29/08/2026;27/08/2026;Encerrada
+OP240089;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-02;500;522;17;17/07/2026;28/07/2026;28/07/2026;Encerrada
+OP240031;PRD-1003;Base estrutural reforçada;Corte;CNC-02;100;44;0;20/09/2026;27/09/2026;;Em andamento
+OP240301;PRD-1002;Painel lateral 1200mm;Solda;Solda-01;150;162;9;21/07/2026;05/08/2026;03/08/2026;Encerrada
+OP240588;PRD-1007;Chassi soldado modelo B;Corte;CNC-01;200;203;0;04/08/2026;09/08/2026;07/08/2026;Encerrada
+OP240381;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;150;152;1;22/08/2026;26/08/2026;26/08/2026;Encerrada
+OP240581;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;50;45;0;10/08/2026;21/08/2026;21/08/2026;Encerrada
+OP240413;PRD-1009;Guarda-corpo modular;Corte;CNC-01;500;456;2;19/09/2026;22/09/2026;20/09/2026;Encerrada
+OP240363;PRD-1008;Prateleira industrial 900mm;CORTE;CNC-02;400;406;1;18/08/2026;22/08/2026;20/08/2026;Encerrada
+OP240124;PRD-1007;Chassi soldado modelo B;solda ;Solda-02;300;301;23;01/09/2026;13/09/2026;13/09/2026;Encerrada
+OP240263;PRD-1008;Prateleira industrial 900mm;CORTE;Serra-01;250;259;4;08/09/2026;14/09/2026;12/09/2026;Encerrada
+OP240437;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-02;100;102;0;08/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240493;PRD-1005;Quadro de comando 600mm;Solda;Solda-01;400;374;6;09/09/2026;20/09/2026;18/09/2026;Encerrada
+OP240113;PRD-1009;Guarda-corpo modular;Montagem;Linha-01;50;51;1;08/08/2026;18/08/2026;26/08/2026;Encerrada
+OP240369;PRD-1006;Chassi soldado modelo A;Corte;CNC-02;80;81;0;10/08/2026;19/08/2026;20/08/2026;Encerrada
+OP240126;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;80;82;1;07/08/2026;15/08/2026;22/08/2026;Encerrada
+OP240568;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;200;205;5;08/09/2026;20/09/2026;21/09/2026;Encerrada
+OP240111;PRD-1001;Suporte metálico 40x40; Corte;Serra-01;200;184;2;17/07/2026;20/07/2026;20/07/2026;Encerrada
+OP240119;PRD-1010;Caixa de passagem 300mm;Corte;CNC-02;80;81;0;09/08/2026;17/08/2026;17/08/2026;Encerrada
+OP240442;PRD-1005;Quadro de comando 600mm;Corte;Serra-01;500;518;10;07/09/2026;22/09/2026;21/09/2026;Encerrada
+OP240449;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;50;51;1;31/08/2026;11/09/2026;10/09/2026;Encerrada
+OP240395;PRD-1010;Caixa de passagem 300mm;Solda;Solda-02;80;85;4;09/09/2026;17/09/2026;16/09/2026;Encerrada
+OP240295;PRD-1009;Guarda-corpo modular;Pintura;Cabine-01;50;52;1;01/08/2026;06/08/2026;06/08/2026;Encerrada
+OP240009;PRD-1004;Tampa frontal pintada;Solda;Solda-01;150;164;13;10/09/2026;21/09/2026;20/09/2026;Encerrada
+OP240470;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-02;200;211;14;01/09/2026;07/09/2026;08/09/2026;Encerrada
+OP240058;PRD-1002;Painel lateral 1200mm;dobra;Dobradeira-02;150;152;2;13/09/2026;16/09/2026;15/09/2026;Encerrada
+OP240562;PRD-1007;Chassi soldado modelo B;Montagem ;Linha-02;500;509;6;14/08/2026;18/08/2026;27/08/2026;Encerrada
+OP240249;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;150;159;8;02/07/2026;06/07/2026;15/07/2026;Encerrada
+OP240300;PRD-1008;Prateleira industrial 900mm; Corte;CNC-01;250;257;5;29/08/2026;06/09/2026;05/09/2026;Encerrada
+OP240013;PRD-1003;Base estrutural reforçada;Montagem;Linha-01;100;104;3;17/08/2026;01/09/2026;30/08/2026;Encerrada
+OP240112;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-02;80;77;2;15/07/2026;29/07/2026;28/07/2026;Encerrada
+OP240204;PRD-1009;Guarda-corpo modular;Montagem;Linha-01;200;202;0;27/08/2026;31/02/2024;09/09/2026;Encerrada
+OP240483;PRD-1009;Guarda-corpo modular;pintura;Cabine-01;400;410;9;02/09/2026;17/09/2026;22/09/2026;Encerrada
+OP240168;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;80;84;3;10/08/2026;23/08/2026;21/08/2026;Encerrada
+OP240361;PRD-1004;Tampa frontal pintada;Corte;CNC-01;50;51;0;17/07/2026;23/07/2026;23/07/2026;Encerrada
+OP240543;PRD-1006;Chassi soldado modelo A;Solda;Solda-03;250;261;9;05/07/2026;12/07/2026;16/07/2026;Encerrada
+OP240142;PRD-1006;Chassi soldado modelo A;Montagem;Linha-01;500;509;3;18/09/2026;23/09/2026;23/09/2026;Encerrada
+OP240038;PRD-1002;Painel lateral 1200mm;Solda;Solda-01;200;209;9;15/09/2026;24/09/2026;23/09/2026;Encerrada
+OP240541;PRD-1009;Guarda-corpo modular;Montagem ;Linha-02;120;124;3;07/09/2026;10/09/2026;09/09/2026;Encerrada
+OP240288;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;80;82;1;04/08/2026;18/08/2026;18/08/2026;Encerrada
+OP240540;PRD-1008;Prateleira industrial 900mm;pintura;Cabine-01;300;300;19;07/09/2026;15/09/2026;14/09/2026;Encerrada
+OP240349;PRD-1003;Base estrutural reforçada;SOLDA;Solda-03;300;331;27;04/07/2026;17/07/2026;16/07/2026;Encerrada
+OP240400;PRD-1002;Painel lateral 1200mm;Montagem;Linha-01;120;125;3;27/07/2026;09/08/2026;08/08/2026;Encerrada
+OP240084;PRD-1003;Base estrutural reforçada;Corte;Serra-01;150;152;1;02/09/2026;16/09/2026;15/09/2026;Encerrada
+OP240546;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;250;251;1;05/07/2026;15/07/2026;13/07/2026;Encerrada
+OP240267;PRD-1005;Quadro de comando 600mm;PINTURA;Cabine-01;100;106;5;22/09/2026;27/09/2026;27/09/2026;Encerrada
+OP240135;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-01;120;123;2;12/09/2026;25/09/2026;24/09/2026;Encerrada
+OP240319;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-01;100;101;1;14/07/2026;24/07/2026;24/07/2026;Encerrada
+OP240490;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;200;208;5;10/08/2026;21/08/2026;20/08/2026;Encerrada
+OP240366;PRD-1006;Chassi soldado modelo A;Montagem;Linha-01;100;104;3;22/08/2026;29/08/2026;06/09/2026;Encerrada
+OP240184;PRD-1008;Prateleira industrial 900mm;;Cabine-02;200;211;8;03/07/2026;11/07/2026;10/07/2026;Encerrada
+OP240551;PRD-1007;Chassi soldado modelo B;Corte;CNC-01;250;257;3;07/07/2026;11/07/2026;09/07/2026;Encerrada
+OP240255;PRD-1002;Painel lateral 1200mm;Corte;Serra-01;200;202;0;07/09/2026;12/09/2026;11/09/2026;Encerrada
+OP240556;PRD-1009;Guarda-corpo modular;Corte;CNC-02;150;153;2;22/09/2026;26/09/2026;25/09/2026;Encerrada
+OP240022;PRD-1004;Tampa frontal pintada;Corte;CNC-01;300;305;5;22/07/2026;31/07/2026;30/07/2026;Encerrada
+OP240453;PRD-1009;Guarda-corpo modular;Solda;Solda-01;120;117;6;25/08/2026;03/09/2026;06/09/2026;Encerrada
+OP240059;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;80;36;0;15/09/2026;30/09/2026;;Em andamento
+OP240529;PRD-1008;Prateleira industrial 900mm;CORTE;Serra-01;500;477;4;31/07/2026;06/08/2026;05/08/2026;Encerrada
+OP240072;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-02;250;251;1;08/08/2026;20/08/2026;18/08/2026;Encerrada
+OP240221;PRD-1009;Guarda-corpo modular;Solda;Solda-02;80;85;4;02/09/2026;12/09/2026;10/09/2026;Encerrada
+OP240271;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-01;200;203;0;01/09/2026;16/09/2026;16/09/2026;Encerrada
+OP240459;PRD-1006;Chassi soldado modelo A;Solda;Solda-01;150;161;10;10/08/2026;23/08/2026;21/08/2026;Encerrada
+OP240485;PRD-1009;Guarda-corpo modular;Pintura;Cabine-02;500;516;25;18/09/2026;02/10/2026;29/09/2026;Encerrada
+OP240517;PRD-1002;Painel lateral 1200mm;Corte;CNC-02;400;413;6;31/08/2026;05/09/2026;04/09/2026;Encerrada
+OP240239;PRD-1009;Guarda-corpo modular;Corte;CNC-02;500;508;0;12/07/2026;24/07/2026;23/07/2026;Encerrada
+OP240173;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-02;250;264;12;31/08/2026;06/09/2026;06/09/2026;Encerrada
+OP240518;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;120;129;8;21/07/2026;27/07/2026;28/07/2026;Encerrada
+OP240544;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;50;48;1;15/07/2026;23/07/2026;23/07/2026;Encerrada
+OP240489;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-02;80;82;1;24/09/2026;03/10/2026;29/09/2026;Encerrada
+OP240352;PRD-1002;Painel lateral 1200mm;SOLDA;Solda-03;120;126;5;29/07/2026;06/08/2026;05/08/2026;Encerrada
+OP240091;PRD-1009;Guarda-corpo modular;Solda;Solda-03;300;323;19;18/08/2026;26/08/2026;26/08/2026;Encerrada
+OP240486;PRD-1008;Prateleira industrial 900mm;PINTURA;Cabine-01;200;212;12;20/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240067;PRD-1009;Guarda-corpo modular;Solda;Solda-01;120;130;9;24/07/2026;30/07/2026;29/07/2026;Encerrada
+OP240314;PRD-1010;Caixa de passagem 300mm;CORTE;CNC-01;400;408;7;29/07/2026;01/08/2026;31/07/2026;Encerrada
+OP240202;PRD-1002;Painel lateral 1200mm;Solda;Solda-03;200;35;0;20/09/2026;27/09/2026;;Em andamento
+OP240471;PRD-1003;Base estrutural reforçada;Solda;Solda-02;50;50;0;26/08/2026;09/09/2026;12/09/2026;Encerrada
+OP240333;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;250;254;2;09/07/2026;13/07/2026;11/07/2026;Encerrada
+OP240258;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;500;516;7;15/09/2026;20/09/2026;20/09/2026;Encerrada
+OP240494;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-02;120;122;0;13/09/2026;19/09/2026;18/09/2026;Encerrada
+OP240002;PRD-1010;Caixa de passagem 300mm;DOBRA;Dobradeira-02;50;51;1;05/08/2026;20/08/2026;20/08/2026;Encerrada
+OP240023;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-02;400;412;4;06/08/2026;15/08/2026;14/08/2026;Encerrada
+OP240181;PRD-1002;Painel lateral 1200mm;Corte;CNC-01;200;205;3;20/08/2026;28/08/2026;27/08/2026;Encerrada
+OP240597;PRD-1002;Painel lateral 1200mm;Montagem;Linha-01;200;208;4;26/07/2026;04/08/2026;02/08/2026;Encerrada
+OP240318;PRD-1003;Base estrutural reforçada;Solda;Solda-01;500;511;2;01/07/2026;15/07/2026;13/07/2026;Encerrada
+OP240441;PRD-1007;Chassi soldado modelo B;DOBRA;Dobradeira-02;150;138;1;12/09/2026;15/09/2026;13/09/2026;Encerrada
+OP240527;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-01;50;51;1;23/07/2026;31/02/2024;06/08/2026;Encerrada
+OP240030;PRD-1005;Quadro de comando 600mm;Solda;Solda-01;150;152;1;03/09/2026;13/09/2026;13/09/2026;Encerrada
+OP240464;PRD-1008;Prateleira industrial 900mm;Soldagem;Solda-03;400;-430;25;18/07/2026;01/08/2026;09/08/2026;Encerrada
+OP240048;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-02;120;126;4;03/08/2026;18/08/2026;17/08/2026;Encerrada
+OP240576;PRD-1004;Tampa frontal pintada;Pintura;Cabine-02;100;102;0;23/09/2026;03/10/2026;29/09/2026;Encerrada
+OP240131;PRD-1002;Painel lateral 1200mm;dobra;Dobradeira-01;120;124;4;19/07/2026;26/07/2026;26/07/2026;Encerrada
+OP240480;PRD-1009;Guarda-corpo modular;montagem;Linha-02;500;514;5;01/09/2026;07/09/2026;06/09/2026;Encerrada
+OP240492;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-01;50;50;0;06/08/2026;18/08/2026;17/08/2026;Encerrada
+OP240108;PRD-1006;Chassi soldado modelo A;Soldagem;Solda-03;150;164;14;08/07/2026;17/07/2026;19/07/2026;Encerrada
+OP240203;PRD-1010;Caixa de passagem 300mm;Dobra;Dobradeira-02;400;419;13;17/08/2026;26/08/2026;24/08/2026;Encerrada
+OP240165;PRD-1006;Chassi soldado modelo A;Solda;Solda-03;400;441;34;09/07/2026;20/07/2026;25/07/2026;Encerrada
+OP240385;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;300;309;5;13/08/2026;20/08/2026;20/08/2026;Encerrada
+OP240240;PRD-1010;Caixa de passagem 300mm;montagem;Linha-01;250;252;2;05/09/2026;10/09/2026;09/09/2026;Encerrada
+OP240005;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-02;250;260;8;30/07/2026;03/08/2026;01/08/2026;Encerrada
+OP240424;PRD-1005;Quadro de comando 600mm;Corte;CNC-01;250;-257;3;24/07/2026;04/08/2026;02/08/2026;Encerrada
+OP240234;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;80;83;1;14/08/2026;17/08/2026;17/08/2026;Encerrada
+OP240298;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;500;507;4;10/07/2026;22/07/2026;25/07/2026;Encerrada
+OP240189;PRD-1008;Prateleira industrial 900mm;Solda;Solda-03;150;166;14;25/07/2026;31/07/2026;31/07/2026;Encerrada
+OP240447;PRD-1002;Painel lateral 1200mm;Solda;Solda-01;300;331;29;16/07/2026;20/07/2026;18/07/2026;Encerrada
+OP240230;PRD-1007;Chassi soldado modelo B;corte ;CNC-01;400;404;0;18/08/2026;27/08/2026;25/08/2026;Encerrada
+OP240448;PRD-1010;Caixa de passagem 300mm;Solda;Solda-02;100;104;3;05/08/2026;15/08/2026;13/08/2026;Encerrada
+OP240467;PRD-1007;Chassi soldado modelo B;Solda;Solda-01;120;125;4;07/08/2026;19/08/2026;17/08/2026;Encerrada
+OP240359;PRD-1009;Guarda-corpo modular;Corte;CNC-02;100;102;1;14/09/2026;21/09/2026;22/09/2026;Encerrada
+OP240516;PRD-1003;Base estrutural reforçada;;CNC-01;500;508;6;04/07/2026;19/07/2026;17/07/2026;Encerrada
+OP240596;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;500;502;1;13/07/2026;23/07/2026;21/07/2026;Encerrada
+OP240074;PRD-1004;Tampa frontal pintada;Solda;Solda-01;150;152;1;06/08/2026;20/08/2026;19/08/2026;Encerrada
+OP240209;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;250;253;2;27/08/2026;05/09/2026;14/09/2026;Encerrada
+OP240542;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-02;400;411;10;13/08/2026;22/08/2026;20/08/2026;Encerrada
+OP240214;PRD-1010;Caixa de passagem 300mm;;Linha-02;200;204;3;15/09/2026;30/09/2026;28/09/2026;Encerrada
+OP240096;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-02;250;267;15;08/08/2026;21/08/2026;20/08/2026;Encerrada
+OP240379;PRD-1006;Chassi soldado modelo A;PINTURA;Cabine-02;300;315;13;07/07/2026;13/07/2026;11/07/2026;Encerrada
+OP240110;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-01;500;528;20;19/07/2026;03/08/2026;06/08/2026;Encerrada
+OP240499;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;300;314;12;13/08/2026;17/08/2026;17/08/2026;Encerrada
+OP240105;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;50;48;3;15/07/2026;20/07/2026;19/07/2026;Encerrada
+OP240220;PRD-1010;Caixa de passagem 300mm;pintura;Cabine-01;120;124;3;27/07/2026;05/08/2026;04/08/2026;Encerrada
+OP240396;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;250;259;7;08/09/2026;19/09/2026;23/09/2026;Encerrada
+OP240195;PRD-1010;Caixa de passagem 300mm;Corte;CNC-01;50;51;0;30/07/2026;10/08/2026;10/08/2026;Encerrada
+OP240341;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;50;50;0;05/07/2026;15/07/2026;13/07/2026;Encerrada
+OP240533;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-01;80;82;2;30/08/2026;04/09/2026;03/09/2026;Encerrada
+OP240136;PRD-1002;Painel lateral 1200mm;Solda;Solda-03;100;111;10;03/09/2026;16/09/2026;24/09/2026;Encerrada
+OP240097;PRD-1004;Tampa frontal pintada;Pintura;Cabine-01;200;207;4;18/08/2026;30/08/2026;28/08/2026;Encerrada
+OP240104;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-02;50;52;1;30/07/2026;09/08/2026;07/08/2026;Encerrada
+OP240370;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;80;83;1;18/09/2026;25/09/2026;24/09/2026;Encerrada
+OP240346;PRD-1005;Quadro de comando 600mm;Solda;Solda-02;150;146;6;28/07/2026;07/08/2026;05/08/2026;Encerrada
+OP240253;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;400;405;4;21/07/2026;29/07/2026;28/07/2026;Encerrada
+OP240436;PRD-1002;Painel lateral 1200mm;Montagem ;Linha-02;120;122;0;09/07/2026;16/07/2026;14/07/2026;Encerrada
+OP240222;PRD-1007;Chassi soldado modelo B;SOLDA;Solda-02;120;124;3;06/07/2026;18/07/2026;18/07/2026;Encerrada
+OP240269;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;50;51;0;11/08/2026;23/08/2026;21/08/2026;Encerrada
+OP240007;PRD-1009;Guarda-corpo modular;Solda;Solda-03;200;188;5;29/07/2026;11/08/2026;11/08/2026;Encerrada
+OP240060;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;200;202;5;09/07/2026;20/07/2026;27/07/2026;Encerrada
+OP240290;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-02;80;80;0;12/09/2026;25/09/2026;23/09/2026;Encerrada
+OP240087;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;400;426;24;12/08/2026;23/08/2026;22/08/2026;Encerrada
+OP240375;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;400;388;14;21/09/2026;26/09/2026;25/09/2026;Encerrada
+OP240362;PRD-1009;Guarda-corpo modular;Pintura;Cabine-02;500;504;4;18/09/2026;21/09/2026;19/09/2026;Encerrada
+OP240076;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;80;87;6;06/08/2026;16/08/2026;15/08/2026;Encerrada
+OP240384;PRD-1003;Base estrutural reforçada;Montagem;Linha-01;500;518;8;14/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240598;PRD-1006;Chassi soldado modelo A;Montagem;Linha-01;50;51;0;28/07/2026;12/08/2026;11/08/2026;Encerrada
+OP240530;PRD-1010;Caixa de passagem 300mm;Dobra;Dobradeira-02;120;122;0;19/09/2026;30/09/2026;29/09/2026;Encerrada
+OP240316;PRD-1007;Chassi soldado modelo B;Corte;CNC-02;200;206;4;14/09/2026;18/09/2026;18/09/2026;Encerrada
+OP240408;PRD-1008;Prateleira industrial 900mm;Corte;Serra-01;80;82;0;21/09/2026;02/10/2026;29/09/2026;Encerrada
+OP240025;PRD-1010;Caixa de passagem 300mm;Dobra;Dobradeira-01;120;122;1;09/07/2026;22/07/2026;20/07/2026;Encerrada
+OP240086;PRD-1009;Guarda-corpo modular;Pintura;Cabine-02;150;159;6;04/08/2026;07/08/2026;05/08/2026;Encerrada
+OP240134;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-01;80;84;3;17/08/2026;24/08/2026;24/08/2026;Encerrada
+OP240504;PRD-1010;Caixa de passagem 300mm;Corte;CNC-01;50;50;0;19/07/2026;26/07/2026;26/07/2026;Encerrada
+OP240236;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-01;80;19;0;23/09/2026;02/10/2026;;Em andamento
+OP240045;PRD-1007;Chassi soldado modelo B;Montagem ;Linha-01;120;122;0;02/09/2026;11/09/2026;09/09/2026;Encerrada
+OP240117;PRD-1003;Base estrutural reforçada;solda ;Solda-02;80;84;3;30/08/2026;03/09/2026;03/09/2026;Encerrada
+OP240539;PRD-1003;Base estrutural reforçada;Pintura;Cabine-01;200;216;13;25/07/2026;02/08/2026;01/08/2026;Encerrada
+OP240313;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;120;127;7;19/07/2026;31/07/2026;30/07/2026;Encerrada
+OP240331;PRD-1010;Caixa de passagem 300mm;Corte;Serra-01;500;505;1;05/09/2026;20/09/2026;18/09/2026;Encerrada
+OP240285;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;500;492;14;11/08/2026;20/08/2026;18/08/2026;Encerrada
+OP240011;PRD-1009;Guarda-corpo modular;Pintura;Cabine-02;80;85;4;02/07/2026;15/07/2026;13/07/2026;Encerrada
+OP240010;PRD-1002;Painel lateral 1200mm;DOBRA;Dobradeira-02;100;94;2;07/07/2026;11/07/2026;09/07/2026;Encerrada
+OP240549;PRD-1010;Caixa de passagem 300mm;Corte;CNC-01;80;83;1;10/09/2026;21/09/2026;20/09/2026;Encerrada
+OP240292;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-01;200;199;8;01/08/2026;10/08/2026;10/08/2026;Encerrada
+OP240193;PRD-1009;Guarda-corpo modular;Corte;Serra-01;120;123;1;29/07/2026;11/08/2026;18/08/2026;Encerrada
+OP240578;PRD-1009;Guarda-corpo modular;Solda;Solda-01;150;158;6;25/08/2026;28/08/2026;27/08/2026;Encerrada
+OP240093;PRD-1006;Chassi soldado modelo A;Corte;CNC-02;100;101;1;17/08/2026;26/08/2026;25/08/2026;Encerrada
+OP240188;PRD-1008;Prateleira industrial 900mm;MONTAGEM;Linha-02;200;206;5;06/09/2026;15/09/2026;14/09/2026;Encerrada
+OP240212;PRD-1004;Tampa frontal pintada;Pintura;Cabine-01;80;83;3;27/07/2026;31/07/2026;30/07/2026;Encerrada
+OP240565;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;100;107;5;20/07/2026;27/07/2026;29/07/2026;Encerrada
+OP240101;PRD-1009;Guarda-corpo modular;Soldagem;Solda-03;150;168;15;04/08/2026;09/08/2026;08/08/2026;Encerrada
+OP240144;PRD-1005;Quadro de comando 600mm;Montagem;Linha-01;200;207;6;30/08/2026;05/09/2026;03/09/2026;Encerrada
+OP240423;PRD-1004;Tampa frontal pintada;Pintura;Cabine-01;500;493;22;06/07/2026;11/07/2026;11/07/2026;Encerrada
+OP240303;PRD-1009;Guarda-corpo modular;Pintura;Cabine-02;80;78;1;09/09/2026;15/09/2026;15/09/2026;Encerrada
+OP240391;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;50;53;2;09/09/2026;12/09/2026;12/09/2026;Encerrada
+OP240088;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-01;300;313;8;06/07/2026;14/07/2026;13/07/2026;Encerrada
+OP240520;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;500;515;6;10/08/2026;19/08/2026;17/08/2026;Encerrada
+OP240068;PRD-1004;Tampa frontal pintada;solda ;Solda-01;200;214;14;07/08/2026;13/08/2026;14/08/2026;Encerrada
+OP240513;PRD-1010;Caixa de passagem 300mm;DOBRA;Dobradeira-01;120;125;3;08/09/2026;21/09/2026;20/09/2026;Encerrada
+OP240585;PRD-1003;Base estrutural reforçada;Solda;Solda-02;50;56;5;10/07/2026;17/07/2026;16/07/2026;Encerrada
+OP240231;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-02;50;53;3;13/07/2026;24/07/2026;22/07/2026;Encerrada
+OP240571;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-02;150;158;7;15/08/2026;30/08/2026;30/08/2026;Encerrada
+OP240210;PRD-1009;Guarda-corpo modular;Montagem;Linha-02;120;126;4;17/07/2026;31/07/2026;31/07/2026;Encerrada
+OP240351;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;100;103;3;13/07/2026;23/07/2026;21/07/2026;Encerrada
+OP240304;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;80;82;3;21/08/2026;29/08/2026;28/08/2026;Encerrada
+OP240066;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;200;205;2;09/09/2026;17/09/2026;16/09/2026;Encerrada
+OP240438;PRD-1004;Tampa frontal pintada;Montagem;Linha-02;500;503;3;05/07/2026;20/07/2026;18/07/2026;Encerrada
+OP240332;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;250;253;2;17/07/2026;20/07/2026;27/07/2026;Encerrada
+OP240393;PRD-1003;Base estrutural reforçada;Corte;CNC-01;250;256;3;04/09/2026;08/09/2026;13/09/2026;Encerrada
+OP240365;PRD-1010;Caixa de passagem 300mm;Corte;Serra-01;80;80;0;16/07/2026;23/07/2026;22/07/2026;Encerrada
+OP240567;PRD-1009;Guarda-corpo modular;MONTAGEM;Linha-02;200;207;4;27/08/2026;05/09/2026;04/09/2026;Encerrada
+OP240127;PRD-1002;Painel lateral 1200mm;Montagem;Linha-02;50;52;1;20/08/2026;03/09/2026;02/09/2026;Encerrada
+OP240080;PRD-1007;Chassi soldado modelo B;Pintura ;Cabine-02;300;309;7;09/09/2026;12/09/2026;17/09/2026;Encerrada
+OP240560;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-02;0;53;3;21/09/2026;04/10/2026;29/09/2026;Encerrada
+OP240042;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;150;156;5;09/09/2026;12/09/2026;11/09/2026;Encerrada
+OP240294;PRD-1008;Prateleira industrial 900mm;Corte;Serra-01;120;123;2;02/07/2026;10/07/2026;09/07/2026;Encerrada
+OP240160;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-02;250;263;12;10/07/2026;23/07/2026;21/07/2026;Encerrada
+OP240156;PRD-1007;Chassi soldado modelo B;Soldagem;Solda-03;150;154;4;08/09/2026;18/09/2026;22/09/2026;Encerrada
+OP240558;PRD-1004;Tampa frontal pintada;SOLDA;Solda-03;80;86;5;23/07/2026;05/08/2026;03/08/2026;Encerrada
+OP240102;PRD-1002;Painel lateral 1200mm;Corte;CNC-02;120;124;2;19/07/2026;03/08/2026;01/08/2026;Encerrada
+OP240231;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-02;50;53;3;13/07/2026;24/07/2026;22/07/2026;Encerrada
+OP240001;PRD-1002;Painel lateral 1200mm;corte ;CNC-01;400;406;2;28/07/2026;03/08/2026;01/08/2026;Encerrada
+OP240069;PRD-1005;Quadro de comando 600mm;Corte;Serra-01;300;306;3;17/07/2026;30/07/2026;30/07/2026;Encerrada
+OP240426;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-01;150;141;3;23/09/2026;04/10/2026;29/09/2026;Encerrada
+OP240405;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;200;208;8;08/08/2026;21/08/2026;21/08/2026;Encerrada
+OP240227;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-01;150;152;0;06/09/2026;20/09/2026;19/09/2026;Encerrada
+OP240322;PRD-1010;Caixa de passagem 300mm;Corte;CNC-02;120;123;1;22/09/2026;07/10/2026;29/09/2026;Encerrada
+OP240094;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;120;56;0;18/09/2026;01/10/2026;;Em andamento
+OP240417;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;50;52;2;17/08/2026;23/08/2026;21/08/2026;Encerrada
+OP240328;PRD-1006;Chassi soldado modelo A;Solda;Solda-02;50;52;1;24/07/2026;03/08/2026;11/08/2026;Encerrada
+OP240026;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-02;200;204;2;27/07/2026;09/08/2026;08/08/2026;Encerrada
+OP240390;PRD-1009;Guarda-corpo modular;Montagem;Linha-01;400;410;3;19/08/2026;25/08/2026;23/08/2026;Encerrada
+OP240014;PRD-1005;Quadro de comando 600mm;Corte;CNC-02;120;120;0;31/07/2026;03/08/2026;03/08/2026;Encerrada
+OP240355;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;100;102;1;10/08/2026;31/02/2024;23/08/2026;Encerrada
+OP240232;PRD-1005;Quadro de comando 600mm;Corte;Serra-01;50;50;0;08/09/2026;20/09/2026;19/09/2026;Encerrada
+OP240167;PRD-1009;Guarda-corpo modular;Soldagem;Solda-02;80;89;8;17/07/2026;29/07/2026;05/08/2026;Encerrada
+OP240344;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;250;253;0;04/08/2026;17/08/2026;15/08/2026;Encerrada
+OP240280;PRD-1005;Quadro de comando 600mm;Corte;Serra-01;500;512;4;27/07/2026;07/08/2026;05/08/2026;Encerrada
+OP240555;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;200;213;10;22/07/2026;29/07/2026;29/07/2026;Encerrada
+OP240411;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;200;206;4;16/08/2026;21/08/2026;20/08/2026;Encerrada
+OP240308;PRD-1002;Painel lateral 1200mm;pintura;Cabine-01;100;107;6;05/08/2026;14/08/2026;12/08/2026;Encerrada
+OP240215;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;50;51;1;10/09/2026;20/09/2026;18/09/2026;Encerrada
+OP240564;PRD-1006;Chassi soldado modelo A;pintura;Cabine-02;250;263;12;18/08/2026;27/08/2026;27/08/2026;Encerrada
+OP240033;PRD-1006;Chassi soldado modelo A;Solda;Solda-01;120;130;9;27/07/2026;09/08/2026;08/08/2026;Encerrada
+OP240259;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-01;100;104;2;06/08/2026;11/08/2026;10/08/2026;Encerrada
+OP240133;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-01;150;152;1;26/08/2026;08/09/2026;06/09/2026;Encerrada
+OP240357;PRD-1007;Chassi soldado modelo B;Montagem;Linha-02;300;311;5;21/08/2026;30/08/2026;30/08/2026;Encerrada
+OP240487;PRD-1009;Guarda-corpo modular;MONTAGEM;Linha-02;80;82;2;06/07/2026;20/07/2026;20/07/2026;Encerrada
+OP240592;PRD-1008;Prateleira industrial 900mm;Corte;Serra-01;50;51;1;25/07/2026;30/07/2026;28/07/2026;Encerrada
+OP240051;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-01;50;52;1;18/08/2026;28/08/2026;27/08/2026;Encerrada
+OP240419;PRD-1009;Guarda-corpo modular;Soldagem;Solda-03;250;265;15;11/09/2026;16/09/2026;15/09/2026;Encerrada
+OP240216;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;100;104;2;08/08/2026;17/08/2026;16/08/2026;Encerrada
+OP240367;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;80;43;0;24/09/2026;28/09/2026;;Em andamento
+OP240170;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-02;150;154;2;06/08/2026;10/08/2026;08/08/2026;Encerrada
+OP240505;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;150;155;3;08/09/2026;19/09/2026;17/09/2026;Encerrada
+OP240211;PRD-1004;Tampa frontal pintada;Pintura;Cabine-02;200;213;13;01/08/2026;11/08/2026;15/08/2026;Encerrada
+OP240377;PRD-1002;Painel lateral 1200mm;Montagem;Linha-02;200;189;4;02/09/2026;12/09/2026;20/09/2026;Encerrada
+OP240536;PRD-1008;Prateleira industrial 900mm;Montagem ;Linha-02;120;114;0;24/07/2026;05/08/2026;05/08/2026;Encerrada
+OP240580;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;500;543;37;02/08/2026;15/08/2026;13/08/2026;Encerrada
+OP240279;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;120;125;3;21/09/2026;25/09/2026;23/09/2026;Encerrada
+OP240587;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-01;50;49;2;03/08/2026;07/08/2026;12/08/2026;Encerrada
+OP240041;PRD-1007;Chassi soldado modelo B;Solda;Solda-03;150;158;6;11/08/2026;20/08/2026;20/08/2026;Encerrada
+OP240482;PRD-1003;Base estrutural reforçada;Montagem;Linha-02;200;199;2;03/07/2026;15/07/2026;15/07/2026;Encerrada
+OP240140;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;50;52;1;04/09/2026;12/09/2026;12/09/2026;Encerrada
+OP240506;PRD-1010;Caixa de passagem 300mm;corte ;CNC-02;50;51;1;23/09/2026;04/10/2026;29/09/2026;Encerrada
+OP240404;PRD-1002;Painel lateral 1200mm;Solda;Solda-03;300;302;1;06/08/2026;21/08/2026;19/08/2026;Encerrada
+OP240593;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-02;300;290;0;07/09/2026;22/09/2026;22/09/2026;Encerrada
+OP240329;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-01;400;242;2;24/09/2026;02/10/2026;;Em andamento
+OP240392;PRD-1010;Caixa de passagem 300mm;DOBRA;Dobradeira-02;500;521;19;08/09/2026;22/09/2026;20/09/2026;Encerrada
+OP240514;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-01;80;82;1;21/07/2026;29/07/2026;27/07/2026;Encerrada
+OP240528;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-01;500;-514;9;26/07/2026;29/07/2026;29/07/2026;Encerrada
+OP240162;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-02;80;81;1;17/08/2026;27/08/2026;25/08/2026;Encerrada
+OP240323;PRD-1003;Base estrutural reforçada;Corte;CNC-02;80;82;1;18/08/2026;23/08/2026;23/08/2026;Encerrada
+OP240224;PRD-1008;Prateleira industrial 900mm;Solda;Solda-02;200;212;10;28/08/2026;02/09/2026;11/09/2026;Encerrada
+OP240082;PRD-1005;Quadro de comando 600mm;Corte;CNC-01;150;143;1;09/09/2026;14/09/2026;12/09/2026;Encerrada
+OP240455;PRD-1002;Painel lateral 1200mm;Solda;Solda-02;200;212;11;27/08/2026;10/09/2026;16/09/2026;Encerrada
+OP240440;PRD-1009;Guarda-corpo modular;Corte;CNC-01;400;405;3;06/08/2026;20/08/2026;19/08/2026;Encerrada
+OP240107;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-02;200;213;13;05/07/2026;19/07/2026;27/07/2026;Encerrada
+OP240152;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;80;23;1;24/09/2026;07/10/2026;;Em andamento
+OP240120;PRD-1006;Chassi soldado modelo A;Solda;Solda-03;150;165;13;15/07/2026;30/07/2026;29/07/2026;Encerrada
+OP240387;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;200;208;4;08/09/2026;22/09/2026;21/09/2026;Encerrada
+OP240421;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-01;80;82;1;22/07/2026;28/07/2026;27/07/2026;Encerrada
+OP240046;PRD-1004;Tampa frontal pintada; Corte;CNC-02;400;406;2;23/07/2026;07/08/2026;05/08/2026;Encerrada
+OP240599;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-02;120;123;1;22/07/2026;01/08/2026;01/08/2026;Encerrada
+OP240130;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;80;84;3;10/07/2026;21/07/2026;21/07/2026;Encerrada
+OP240498;PRD-1003;Base estrutural reforçada;Montagem;Linha-01;250;236;4;07/07/2026;20/07/2026;18/07/2026;Encerrada
+OP240474;PRD-1008;Prateleira industrial 900mm;Corte;CNC-01;120;122;2;13/07/2026;24/07/2026;22/07/2026;Encerrada
+OP240201;PRD-1005;Quadro de comando 600mm;Montagem;Linha-01;120;123;1;22/09/2026;30/09/2026;29/09/2026;Encerrada
+OP240465;PRD-1006;Chassi soldado modelo A;Montagem;Linha-02;120;121;1;31/08/2026;11/09/2026;10/09/2026;Encerrada
+OP240004;PRD-1002;Painel lateral 1200mm;Corte;CNC-02;500;506;6;09/09/2026;16/09/2026;15/09/2026;Encerrada
+OP240198;PRD-1004;Tampa frontal pintada;Pintura;Cabine-02;100;103;2;15/07/2026;23/07/2026;21/07/2026;Encerrada
+OP240226;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-01;200;193;5;03/09/2026;13/09/2026;21/09/2026;Encerrada
+OP240439;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-01;250;254;4;12/07/2026;19/07/2026;18/07/2026;Encerrada
+OP240121;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-01;150;155;4;23/09/2026;07/10/2026;29/09/2026;Encerrada
+OP240443;PRD-1008;Prateleira industrial 900mm;SOLDA;Solda-02;300;-312;11;14/09/2026;17/09/2026;19/09/2026;Encerrada
+OP240591;PRD-1009;Guarda-corpo modular;Dobra;Dobradeira-01;120;125;4;06/07/2026;15/07/2026;14/07/2026;Encerrada
+OP240062;PRD-1010;Caixa de passagem 300mm;Pintura;Cabine-02;120;124;2;04/08/2026;12/08/2026;12/08/2026;Encerrada
+OP240350;PRD-1006;Chassi soldado modelo A;montagem;Linha-01;400;415;11;29/07/2026;11/08/2026;10/08/2026;Encerrada
+OP240586;PRD-1002;Painel lateral 1200mm;DOBRA;Dobradeira-02;500;518;10;01/09/2026;07/09/2026;05/09/2026;Encerrada
+OP240462;PRD-1005;Quadro de comando 600mm;Corte;CNC-01;80;80;0;18/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240185;PRD-1008;Prateleira industrial 900mm;Corte;Serra-01;500;506;1;03/08/2026;16/08/2026;14/08/2026;Encerrada
+OP240358;PRD-1004;Tampa frontal pintada;Solda;Solda-03;50;51;1;03/07/2026;16/07/2026;16/07/2026;Encerrada
+OP240327;PRD-1008;Prateleira industrial 900mm;Solda;Solda-01;250;259;7;15/07/2026;22/07/2026;20/07/2026;Encerrada
+OP240158;PRD-1005;Quadro de comando 600mm;Solda;Solda-03;250;264;14;11/07/2026;25/07/2026;28/07/2026;Encerrada
+OP240582;PRD-1004;Tampa frontal pintada;Pintura;Cabine-02;120;122;0;06/08/2026;13/08/2026;15/08/2026;Encerrada
+OP240282;PRD-1007;Chassi soldado modelo B;solda ;Solda-01;200;218;15;11/09/2026;20/09/2026;20/09/2026;Encerrada
+OP240129;PRD-1007;Chassi soldado modelo B;Solda;Solda-01;250;256;2;14/07/2026;20/07/2026;18/07/2026;Encerrada
+OP240122;PRD-1002;Painel lateral 1200mm;dobra;Dobradeira-02;50;50;0;19/07/2026;02/08/2026;11/08/2026;Encerrada
+OP240343;PRD-1005;Quadro de comando 600mm;Solda;Solda-01;50;54;4;12/07/2026;19/07/2026;19/07/2026;Encerrada
+OP240403;PRD-1010;Caixa de passagem 300mm;CORTE;Serra-01;500;507;4;09/07/2026;24/07/2026;26/07/2026;Encerrada
+OP240469;PRD-1009;Guarda-corpo modular;Solda;Solda-02;120;114;2;04/08/2026;13/08/2026;13/08/2026;Encerrada
+OP240353;PRD-1008;Prateleira industrial 900mm;montagem;Linha-02;50;51;1;16/07/2026;26/07/2026;24/07/2026;Encerrada
+OP240027;PRD-1008;Prateleira industrial 900mm;Corte;CNC-01;80;80;0;18/09/2026;30/09/2026;29/09/2026;Encerrada
+OP240481;PRD-1002;Painel lateral 1200mm;Montagem;Linha-01;300;310;5;06/09/2026;11/09/2026;10/09/2026;Encerrada
+OP240409;PRD-1004;Tampa frontal pintada;Solda;Solda-01;500;522;16;13/07/2026;20/07/2026;24/07/2026;Encerrada
+OP240339;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;250;260;7;26/08/2026;01/09/2026;30/08/2026;Encerrada
+OP240378;PRD-1009;Guarda-corpo modular;Corte;Serra-01;500;505;3;01/07/2026;05/07/2026;03/07/2026;Encerrada
+OP240430;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;300;305;3;18/07/2026;25/07/2026;25/07/2026;Encerrada
+OP240017;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-01;400;400;0;03/07/2026;15/07/2026;15/07/2026;Encerrada
+OP240310;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-01;50;51;0;15/09/2026;21/09/2026;20/09/2026;Encerrada
+OP240463;PRD-1009;Guarda-corpo modular;dobra;Dobradeira-01;50;53;2;22/07/2026;25/07/2026;24/07/2026;Encerrada
+OP240495;PRD-1006;Chassi soldado modelo A;Corte;Serra-01;300;305;4;31/08/2026;05/09/2026;03/09/2026;Encerrada
+OP240330;PRD-1009;Guarda-corpo modular;Corte;CNC-02;300;297;3;23/08/2026;03/09/2026;03/09/2026;Encerrada
+OP240021;PRD-1005;Quadro de comando 600mm;PINTURA;Cabine-01;80;82;1;29/08/2026;04/09/2026;02/09/2026;Encerrada
+OP240315;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-02;500;524;15;03/07/2026;08/07/2026;08/07/2026;Encerrada
+OP240376;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;120;123;2;07/07/2026;18/07/2026;17/07/2026;Encerrada
+OP240519;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-01;500;521;17;23/07/2026;02/08/2026;01/08/2026;Encerrada
+OP240371;PRD-1008;Prateleira industrial 900mm;solda ;Solda-02;100;110;10;23/08/2026;05/09/2026;06/09/2026;Encerrada
+OP240148;PRD-1006;Chassi soldado modelo A;Dobra;Dobradeira-01;200;202;0;13/07/2026;27/07/2026;27/07/2026;Encerrada
+OP240566;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-01;250;262;11;18/07/2026;31/07/2026;29/07/2026;Encerrada
+OP240252;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-02;80;84;4;08/08/2026;11/08/2026;17/08/2026;Encerrada
+OP240486;PRD-1008;Prateleira industrial 900mm;PINTURA;Cabine-01;200;212;12;20/09/2026;23/09/2026;22/09/2026;Encerrada
+OP240535;PRD-1010;Caixa de passagem 300mm;Solda;Solda-02;400;419;14;10/08/2026;17/08/2026;15/08/2026;Encerrada
+OP240324;PRD-1003;Base estrutural reforçada;Corte;CNC-02;100;101;0;16/09/2026;25/09/2026;29/09/2026;Encerrada
+OP240115;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-02;250;269;15;03/09/2026;15/09/2026;17/09/2026;Encerrada
+OP240383;PRD-1009;Guarda-corpo modular;Pintura;Cabine-01;250;271;16;07/07/2026;18/07/2026;17/07/2026;Encerrada
+OP240502;PRD-1006;Chassi soldado modelo A;Solda;Solda-01;50;56;5;14/08/2026;26/08/2026;26/08/2026;Encerrada
+OP240057;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-01;200;209;6;02/08/2026;17/08/2026;15/08/2026;Encerrada
+OP240260;PRD-1004;Tampa frontal pintada;pintura;Cabine-01;400;426;19;19/08/2026;30/08/2026;29/08/2026;Encerrada
+OP240418;PRD-1001;Suporte metálico 40x40;Pintura;Cabine-01;80;33;2;22/09/2026;30/09/2026;;Em andamento
+OP240450;PRD-1009;Guarda-corpo modular;corte ;Serra-01;50;46;0;28/08/2026;05/09/2026;09/09/2026;Encerrada
+OP240281;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;300;312;6;15/07/2026;21/07/2026;21/07/2026;Encerrada
+OP240219;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-01;150;153;1;27/07/2026;04/08/2026;04/08/2026;Encerrada
+OP240179;PRD-1003;Base estrutural reforçada;Corte;CNC-02;200;188;0;03/08/2026;17/08/2026;16/08/2026;Encerrada
+OP240109;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-01;100;100;0;12/08/2026;18/08/2026;18/08/2026;Encerrada
+OP240147;PRD-1008;Prateleira industrial 900mm;Corte;CNC-01;250;252;2;14/08/2026;17/08/2026;26/08/2026;Encerrada
+OP240223;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;120;126;4;26/07/2026;03/08/2026;03/08/2026;Encerrada
+OP240433;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-01;400;424;16;09/09/2026;24/09/2026;23/09/2026;Encerrada
+OP240550;PRD-1004;Tampa frontal pintada;SOLDA;Solda-03;150;140;8;22/07/2026;26/07/2026;25/07/2026;Encerrada
+OP240399;PRD-1009;Guarda-corpo modular;Solda;Solda-03;50;47;2;27/08/2026;06/09/2026;10/09/2026;Encerrada
+OP240337;PRD-1004;Tampa frontal pintada;Solda;Solda-03;300;303;1;07/07/2026;21/07/2026;20/07/2026;Encerrada
+OP240320;PRD-1006;Chassi soldado modelo A;;Serra-01;150;150;0;27/08/2026;30/08/2026;28/08/2026;Encerrada
+OP240125;PRD-1010;Caixa de passagem 300mm;Solda;Solda-03;150;150;15;01/09/2026;12/09/2026;19/09/2026;Encerrada
+OP240243;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-01;120;129;8;11/08/2026;23/08/2026;23/08/2026;Encerrada
+OP240553;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-01;300;305;3;09/08/2026;22/08/2026;22/08/2026;Encerrada
+OP240508;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-01;80;85;5;04/09/2026;18/09/2026;17/09/2026;Encerrada
+OP240257;PRD-1010;Caixa de passagem 300mm;;Solda-03;100;104;3;11/07/2026;24/07/2026;24/07/2026;Encerrada
+OP240537;PRD-1004;Tampa frontal pintada;Corte;Serra-01;250;253;3;17/09/2026;26/09/2026;29/09/2026;Encerrada
+OP240094;PRD-1007;Chassi soldado modelo B;Corte;Serra-01;120;56;0;18/09/2026;01/10/2026;;Em andamento
+OP240123;PRD-1006;Chassi soldado modelo A;Solda;Solda-02;80;82;1;11/09/2026;23/09/2026;23/09/2026;Encerrada
+OP240512;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;100;104;3;31/07/2026;12/08/2026;11/08/2026;Encerrada
+OP240114;PRD-1002;Painel lateral 1200mm;Pintura;Cabine-01;100;105;4;11/08/2026;23/08/2026;28/08/2026;Encerrada
+OP240587;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-01;50;49;2;03/08/2026;07/08/2026;12/08/2026;Encerrada
+OP240143;PRD-1001;Suporte metálico 40x40;Dobra;Dobradeira-02;120;122;1;22/08/2026;30/08/2026;28/08/2026;Encerrada
+OP240406;PRD-1010;Caixa de passagem 300mm;CORTE;Serra-01;400;408;2;20/08/2026;31/08/2026;30/08/2026;Encerrada
+OP240092;PRD-1002;Painel lateral 1200mm;Soldagem;Solda-01;80;75;2;25/08/2026;29/08/2026;27/08/2026;Encerrada
+OP240372;PRD-1010;Caixa de passagem 300mm;Montagem;Linha-02;500;518;9;26/08/2026;31/08/2026;30/08/2026;Encerrada
+OP240416;PRD-1010;Caixa de passagem 300mm;DOBRA;Dobradeira-01;100;100;4;11/09/2026;24/09/2026;23/09/2026;Encerrada
+OP240594;PRD-1002;Painel lateral 1200mm;Corte;CNC-02;400;413;7;28/07/2026;12/08/2026;10/08/2026;Encerrada
+OP240305;PRD-1003;Base estrutural reforçada;Dobra;Dobradeira-02;200;202;0;12/07/2026;27/07/2026;04/08/2026;Encerrada
+OP240321;PRD-1007;Chassi soldado modelo B;Corte;CNC-01;250;255;2;26/08/2026;09/09/2026;08/09/2026;Encerrada
+OP240085;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-01;400;430;24;25/07/2026;06/08/2026;06/08/2026;Encerrada
+OP240056;PRD-1001;Suporte metálico 40x40;Corte;Serra-01;120;122;0;04/07/2026;10/07/2026;08/07/2026;Encerrada
+OP240020;PRD-1002;Painel lateral 1200mm;Corte;Serra-01;200;203;1;08/07/2026;17/07/2026;17/07/2026;Encerrada
+OP240577;PRD-1008;Prateleira industrial 900mm;Corte;CNC-01;150;152;1;21/08/2026;31/08/2026;29/08/2026;Encerrada
+OP240043;PRD-1004;Tampa frontal pintada;Pintura;Cabine-02;100;105;4;04/09/2026;14/09/2026;13/09/2026;Encerrada
+OP240180;PRD-1005;Quadro de comando 600mm;Solda;Solda-03;400;416;11;10/07/2026;19/07/2026;17/07/2026;Encerrada
+OP240563;PRD-1001;Suporte metálico 40x40;Solda;Solda-03;400;404;4;01/07/2026;15/07/2026;14/07/2026;Encerrada
+OP240284;PRD-1007;Chassi soldado modelo B;montagem;Linha-02;400;407;3;21/08/2026;25/08/2026;25/08/2026;Encerrada
+OP240264;PRD-1006;Chassi soldado modelo A;Pintura;Cabine-02;80;82;1;12/07/2026;22/07/2026;22/07/2026;Encerrada
+OP240029;PRD-1002;Painel lateral 1200mm;Montagem;Linha-02;80;82;1;18/07/2026;25/07/2026;23/07/2026;Encerrada
+OP240139;PRD-1007;Chassi soldado modelo B;Solda;Solda-03;80;85;5;17/07/2026;29/07/2026;28/07/2026;Encerrada
+OP240279;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-01;120;125;3;21/09/2026;25/09/2026;23/09/2026;Encerrada
+OP240163;PRD-1003;Base estrutural reforçada;Corte;CNC-01;250;253;1;02/09/2026;13/09/2026;13/09/2026;Encerrada
+OP240206;PRD-1008;Prateleira industrial 900mm;Pintura;Cabine-01;250;262;10;17/07/2026;28/07/2026;28/07/2026;Encerrada
+OP240037;PRD-1009;Guarda-corpo modular;solda ;Solda-02;400;406;5;21/08/2026;03/09/2026;03/09/2026;Encerrada
+OP240432;PRD-1003;Base estrutural reforçada;solda ;Solda-01;500;524;21;24/08/2026;06/09/2026;15/09/2026;Encerrada
+OP240446;PRD-1004;Tampa frontal pintada;Dobra;Dobradeira-02;120;123;1;31/07/2026;14/08/2026;14/08/2026;Encerrada
+OP240573;PRD-1009;Guarda-corpo modular;CORTE;CNC-01;150;151;1;10/07/2026;25/07/2026;23/07/2026;Encerrada
+OP240497;PRD-1010;Caixa de passagem 300mm;Corte;CNC-01;250;251;0;02/07/2026;15/07/2026;24/07/2026;Encerrada
+OP240475;PRD-1009;Guarda-corpo modular;Corte;Serra-01;150;154;1;05/09/2026;09/09/2026;08/09/2026;Encerrada
+OP240317;PRD-1003;Base estrutural reforçada;Pintura;Cabine-02;500;527;23;10/09/2026;24/09/2026;24/09/2026;Encerrada
+OP240251;PRD-1003;Base estrutural reforçada;Corte;Serra-01;200;202;2;14/08/2026;21/08/2026;21/08/2026;Encerrada
+OP240028;PRD-1005;Quadro de comando 600mm;Dobra;Dobradeira-02;400;420;16;21/07/2026;31/07/2026;29/07/2026;Encerrada
+OP240196;PRD-1008;Prateleira industrial 900mm;corte ;CNC-02;150;154;1;24/07/2026;07/08/2026;07/08/2026;Encerrada
+OP240153;PRD-1007;Chassi soldado modelo B;Montagem;Linha-01;250;256;6;30/08/2026;02/09/2026;01/09/2026;Encerrada
+OP240116;PRD-1008;Prateleira industrial 900mm;Dobra;Dobradeira-02;200;188;3;30/07/2026;08/08/2026;07/08/2026;Encerrada
+OP240244;PRD-1006;Chassi soldado modelo A;pintura;Cabine-01;250;254;3;18/08/2026;25/08/2026;23/08/2026;Encerrada
+OP240415;PRD-1007;Chassi soldado modelo B;MONTAGEM;Linha-01;50;51;1;16/08/2026;27/08/2026;25/08/2026;Encerrada
+OP240241;PRD-1007;Chassi soldado modelo B;PINTURA;Cabine-02;80;85;4;08/08/2026;18/08/2026;18/08/2026;Encerrada
+OP240262;PRD-1009;Guarda-corpo modular;Montagem ;Linha-02;500;520;12;04/09/2026;08/09/2026;17/09/2026;Encerrada
+OP240164;PRD-1008;Prateleira industrial 900mm;Montagem;Linha-02;100;103;1;26/07/2026;30/07/2026;29/07/2026;Encerrada
+OP240293;PRD-1004;Tampa frontal pintada;Corte;CNC-01;250;256;4;05/09/2026;08/09/2026;16/09/2026;Encerrada
+OP240273;PRD-1005;Quadro de comando 600mm;Solda;Solda-01;200;213;13;12/07/2026;25/07/2026;31/07/2026;Encerrada
+OP240422;PRD-1004;Tampa frontal pintada;Corte;Serra-01;200;205;3;23/08/2026;07/09/2026;06/09/2026;Encerrada
+OP240208;PRD-1008;Prateleira industrial 900mm;Corte;CNC-01;250;257;4;05/07/2026;12/07/2026;12/07/2026;Encerrada
+OP240065;PRD-1001;Suporte metálico 40x40;Pintura ;Cabine-02;120;124;3;12/07/2026;19/07/2026;19/07/2026;Encerrada
+OP240326;PRD-1005;Quadro de comando 600mm;Pintura;Cabine-01;500;39;1;23/09/2026;06/10/2026;;Em andamento
+OP240420;PRD-1004;Tampa frontal pintada;Solda;Solda-02;200;212;10;05/09/2026;14/09/2026;13/09/2026;Encerrada
+OP240445;PRD-1009;Guarda-corpo modular;Solda;Solda-01;200;208;5;23/07/2026;02/08/2026;31/07/2026;Encerrada
+OP240307;PRD-1010;Caixa de passagem 300mm;Dobra;Dobradeira-01;120;48;2;18/09/2026;31/02/2024;;Em andamento
+OP240154;PRD-1010;Caixa de passagem 300mm;dobra;Dobradeira-01;50;53;2;12/08/2026;17/08/2026;16/08/2026;Encerrada
+OP240246;PRD-1005;Quadro de comando 600mm;Pintura ;Cabine-01;100;102;1;31/07/2026;07/08/2026;06/08/2026;Encerrada
+OP240151;PRD-1010;Caixa de passagem 300mm;Corte;CNC-02;400;406;1;07/09/2026;10/09/2026;08/09/2026;Encerrada
+OP240473;PRD-1004;Tampa frontal pintada;Pintura;Cabine-01;50;51;1;02/08/2026;11/08/2026;15/08/2026;Encerrada
+OP240373;PRD-1008;Prateleira industrial 900mm;DOBRA;Dobradeira-02;300;301;8;15/07/2026;24/07/2026;29/07/2026;Encerrada
+OP240205;PRD-1003;Base estrutural reforçada;Montagem;Linha-01;300;311;6;11/08/2026;22/08/2026;26/08/2026;Encerrada
+OP240534;PRD-1002;Painel lateral 1200mm;Dobra;Dobradeira-01;400;418;12;12/09/2026;26/09/2026;25/09/2026;Encerrada
+OP240061;PRD-1007;Chassi soldado modelo B;Pintura;Cabine-01;400;423;17;23/07/2026;06/08/2026;05/08/2026;Encerrada
+OP240579;PRD-1009;Guarda-corpo modular;Corte;CNC-01;250;130;1;20/09/2026;28/09/2026;;Em andamento
+OP240444;PRD-1007;Chassi soldado modelo B;Dobra;Dobradeira-02;400;386;4;15/08/2026;26/08/2026;31/08/2026;Encerrada
+OP240545;PRD-1004;Tampa frontal pintada;Montagem;Linha-01;400;409;2;13/08/2026;23/08/2026;22/08/2026;Encerrada
+OP240274;PRD-1004;Tampa frontal pintada;Soldagem;Solda-03;80;78;2;24/08/2026;06/09/2026;06/09/2026;Encerrada
+OP240478;PRD-1006;Chassi soldado modelo A; Corte;CNC-01;400;408;4;21/09/2026;26/09/2026;26/09/2026;Encerrada
+OP240218;PRD-1006;Chassi soldado modelo A;Corte;CNC-02;120;124;2;12/07/2026;23/07/2026;30/07/2026;Encerrada
+OP240511;PRD-1009;Guarda-corpo modular;PINTURA;Cabine-01;100;97;5;05/08/2026;11/08/2026;10/08/2026;Encerrada
+OP240590;PRD-1005;Quadro de comando 600mm;Solda;Solda-03;80;82;1;21/08/2026;24/08/2026;23/08/2026;Encerrada
